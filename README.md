@@ -1,2 +1,1 @@
-# TaskSystem
-System to manage tasks: Create and Check.
+# Sistema de gestión de tareas
